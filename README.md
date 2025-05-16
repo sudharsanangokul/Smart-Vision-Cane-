@@ -102,11 +102,3 @@ Make sure your `README.md` includes:
 If the model is large, upload `best.pt` to Google Drive and just place the download link in your `README.md`.
 
 ---
-
-### **9. License and Credits**
-
-If you're okay with others using your project, add a license file (MIT, Apache 2.0, etc.).
-
----
-
-Would you like me to generate a sample `README.md` or `.gitignore` file for your project?
